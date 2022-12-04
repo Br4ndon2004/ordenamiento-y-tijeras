@@ -1,0 +1,14 @@
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\bin\Debug\netcoreapp3.1\ordenamiento.exe
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\bin\Debug\netcoreapp3.1\ordenamiento.deps.json
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\bin\Debug\netcoreapp3.1\ordenamiento.runtimeconfig.json
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\bin\Debug\netcoreapp3.1\ordenamiento.runtimeconfig.dev.json
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\bin\Debug\netcoreapp3.1\ordenamiento.dll
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\bin\Debug\netcoreapp3.1\ordenamiento.pdb
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.csproj.AssemblyReference.cache
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.AssemblyInfoInputs.cache
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.AssemblyInfo.cs
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.dll
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.pdb
+C:\Users\skate\source\repos\ordenamiento\ordenamiento\obj\Debug\netcoreapp3.1\ordenamiento.genruntimeconfig.cache
