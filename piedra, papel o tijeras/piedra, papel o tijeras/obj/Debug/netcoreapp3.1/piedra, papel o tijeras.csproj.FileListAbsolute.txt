@@ -1,0 +1,14 @@
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\bin\Debug\netcoreapp3.1\piedra, papel o tijeras.exe
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\bin\Debug\netcoreapp3.1\piedra, papel o tijeras.deps.json
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\bin\Debug\netcoreapp3.1\piedra, papel o tijeras.runtimeconfig.json
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\bin\Debug\netcoreapp3.1\piedra, papel o tijeras.runtimeconfig.dev.json
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\bin\Debug\netcoreapp3.1\piedra, papel o tijeras.dll
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\bin\Debug\netcoreapp3.1\piedra, papel o tijeras.pdb
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.csproj.AssemblyReference.cache
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.AssemblyInfoInputs.cache
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.AssemblyInfo.cs
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.csproj.CoreCompileInputs.cache
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.dll
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.pdb
+C:\Users\skate\source\repos\piedra, papel o tijeras\piedra, papel o tijeras\obj\Debug\netcoreapp3.1\piedra, papel o tijeras.genruntimeconfig.cache
